@@ -1,0 +1,3 @@
+asset_id,asset_name,owner,environment,target,testing_status,notes
+LAB-01,Local training web app,RabTech Lab,Isolated localhost,127.0.0.1,Approved only after written authorization,Use only during the approved testing window
+LAB-02,Deliberately vulnerable VM,RabTech Lab,Private host-only network,192.168.56.20,Approved only after written authorization,Do not test until explicitly authorized

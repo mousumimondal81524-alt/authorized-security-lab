@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.log
+*.tmp
+.DS_Store
+evidence/* 
+!evidence/README.md
+screenshots/*
+!screenshots/README.md

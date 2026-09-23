@@ -1,0 +1,4 @@
+AUTHORIZED SECURITY LAB REPORT
+========================================
+This placeholder report is included for project structure demonstration.
+Run `python src/main.py` in an authorized lab to generate actual results.
